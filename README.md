@@ -1,2 +1,3 @@
 # ClrDox
-Creates documentation for assemblies.
+
+Creates documentations of assemblies.
